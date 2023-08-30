@@ -1,4 +1,4 @@
-# Project-1
+# Graph Plotter
 ## GUI project
 Hello dear friend. I am glad to present you my very first decent project in Python. It is a graphical user interface application called "Graph plotter".
 This program can plot any graph a user typed in. In order to ease the process of making up a function some predefined examples were created. By pointing with a mouse on any part of the curve a message box with coordinates X and Y appears. So it is possible to
